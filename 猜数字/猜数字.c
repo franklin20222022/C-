@@ -14,7 +14,7 @@ void game()
 		{
 			printf("大了\n");
 		}
-		else if (sum_y < sum_s) 
+		else if (sum_y < sum_s)
 		{
 			printf("小了\n");
 		}
