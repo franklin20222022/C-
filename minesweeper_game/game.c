@@ -1,0 +1,6 @@
+#define _CRT_SECURE_NO_WARNINGS
+game()
+{
+	//³õÊ¼»¯À×ÅÌ
+
+}

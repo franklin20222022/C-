@@ -1,0 +1,1 @@
+\\Mac\Home\Desktop\practice-git\minesweeper_game\ARM64\Debug\minesweeper_game.exe
