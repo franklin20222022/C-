@@ -1,0 +1,4 @@
+﻿  源.c
+\\Mac\Home\Desktop\practice-git\ceshi\源.c(9,12): warning C4047: “初始化”:“int”与“char [4]”的间接级别不同
+\\Mac\Home\Desktop\practice-git\ceshi\源.c(10,6): warning C4047: “初始化”:“int”与“char [4]”的间接级别不同
+  ceshi.vcxproj -> \\Mac\Home\Desktop\practice-git\ceshi\ARM64\Debug\ceshi.exe
